@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susafp
 - 👀 Fron End Developer 
-- 🌱 HTML | CSS | Javascript | Bootstrap 
+- 🌱 HTML | CSS | JavaScript | Bootstrap 
 - 📫 How to reach me: susafp@hotmail.com
 
 <!---
